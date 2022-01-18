@@ -1,0 +1,23 @@
+2022-01-17 11:22:31,128  INFO [main] CarSavaariRunner:14 - URL invoked Successfuly
+2022-01-17 11:22:32,193  INFO [main] CarSavaariRunner:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-17 11:22:35,191  INFO [main] CarSavaariRunner:14 - button is clicked in page button
+2022-01-17 11:22:35,839  INFO [main] CarSavaariRunner:14 - name is clicked in page id
+2022-01-17 11:22:36,310  INFO [main] CarSavaariRunner:14 - name is send in page id
+2022-01-17 11:22:37,052  INFO [main] CarSavaariRunner:14 - pass is clicked in page pwd
+2022-01-17 11:22:37,589  INFO [main] CarSavaariRunner:14 - pass is send in page pwd
+2022-01-17 11:22:38,361  INFO [main] CarSavaariRunner:14 - click is clicked in page login
+2022-01-17 11:22:39,060  INFO [main] CarSavaariRunner:14 - Successfully logged in
+2022-01-17 11:22:44,121  INFO [main] CarSavaariRunner:14 - Travel Agent is clicked in page Travel Agent
+2022-01-17 11:22:53,557  INFO [main] CarSavaariRunner:14 - Travel Agent details shown 
+2022-01-17 11:22:54,325  INFO [main] CarSavaariRunner:14 - home page is clicked in page home page
+2022-01-17 11:22:57,257  INFO [main] CarSavaariRunner:14 - from place is clicked in page from
+2022-01-17 11:22:57,976  INFO [main] CarSavaariRunner:14 - place is send in page from
+2022-01-17 11:22:58,888  INFO [main] CarSavaariRunner:14 - place is clicked in page to
+2022-01-17 11:22:59,605  INFO [main] CarSavaariRunner:14 - place is send in page to
+2022-01-17 11:23:02,771  INFO [main] CarSavaariRunner:14 - selected is clicked in page select
+2022-01-17 11:23:03,030  INFO [main] CarSavaariRunner:14 - Successfully verified
+2022-01-17 11:23:03,563  INFO [main] CarSavaariRunner:14 - home page is clicked in page home page
+2022-01-17 11:23:08,136  INFO [main] CarSavaariRunner:14 - outstation is clicked is clicked in page outstation is clicked
+2022-01-17 11:23:09,128  INFO [main] CarSavaariRunner:14 - round is clicked in page round
+2022-01-17 11:23:10,110  INFO [main] CarSavaariRunner:14 - selected is clicked in page select
+2022-01-17 11:23:12,365 ERROR [main] CarSavaariRunner:21 - select car is not able clicked in page select
